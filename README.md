@@ -11,42 +11,41 @@
 
 ## Oi, sou Lucas O. Simões!
 
-- 🌱 Melhorando skill ativamente sobre:
+- 🌱 Melhorando e Estudando ativamente sobre:
    <div>
-     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
-
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red" target="_blank"></a> 
-       <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red" target="_blank"></a>
-         <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=red" target="_blank"></a>
-   </div> 
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg"/>
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain-wordmark.svg"/>
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-plain-wordmark.svg"/>   
+   </div>
+   
 - 👯 Em pré estudo para expecializar-me:
    <div>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-   </div>  
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"/>
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-plain-wordmark.svg"/>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg">
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bash/bash-original.svg">
+      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
+   </div>
    
+   - 💬 Sinta-se à vontade para me perguntar sobre:
+  <div>
+     
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
+     <img height="30" width="40" src="#">  
+  </div>
+  
 - 🤔 Buscando:
    <div>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
-    
+   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original-wordmark.svg"/>
+        
    </div>
-- 💬 Sinta-se à vontade para me perguntar sobre:
-  <div>
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
-    
-  </div>
+   
 - 📫 Contate-me em:
   <div></div>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
-     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src="#"/>
+     <img height="30" width="40" src="#"/>
+     <img height="30" width="40" src="#"/>
 
 ##
 
