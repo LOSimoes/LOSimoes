@@ -51,7 +51,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 ## 📫 Contate-me em:
 
 <div style="display: flex; gap: "10px"; align-items: center;">
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:lucasdeoliveirasimoes@hotmail.com" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" alt="Outlook"/>
   </a>
 
@@ -59,11 +59,11 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 
-  <a href="https://discord.gg/seu-servidor" target="_blank">
+  <a href="https://discord.gg/v28TSVBb" target="_blank">
     <img height="30" width="30" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" alt="Discord"/>
   </a>
 
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/LOSimoes" target="_blank">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"/>
   </a>
 
@@ -78,11 +78,11 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 
 <div>
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/seu-servidor" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://pt.stackoverflow.com/users/437321/lucasosimoes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasdeoliveirasimoes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/v28TSVBb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucasosimoes95/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/LOSimoes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://pt.stackoverflow.com/users/437321/lucasosimoes" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
 
 ##
