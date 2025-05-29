@@ -29,7 +29,6 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
-
 #
 
 🔧 Ferramentas de DevOps:
