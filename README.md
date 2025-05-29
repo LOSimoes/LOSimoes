@@ -11,24 +11,42 @@
 
 ## Oi, sou Lucas O. Simões!
 
-- 🌱 Aprendendo ativamente sobre:
+- 🌱 Melhorando skill ativamente sobre:
    <div>
-     
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red" target="_blank"></a> 
+       <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red" target="_blank"></a>
+         <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=red" target="_blank"></a>
    </div> 
-- 👯 Aberto a colaboração em:
+- 👯 Em pré estudo para expecializar-me:
    <div>
-     
-   </div>   
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+   </div>  
+   
 - 🤔 Buscando:
    <div>
-     
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+    
    </div>
 - 💬 Sinta-se à vontade para me perguntar sobre:
   <div>
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
     
   </div>
 - 📫 Contate-me em:
   <div></div>
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
+     <img height="30" width="40" src="">
 
 ##
 
@@ -53,3 +71,6 @@
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 
 </div>
+
+
+
