@@ -28,37 +28,28 @@
       <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
    </div>
    
-   - 💬 Sinta-se à vontade para me perguntar sobre:
-  <div>
+   
+- 💬 Sinta-se à vontade para me perguntar sobre:
+      <div>
      
      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg">
      <img height="30" width="40" src="#">  
-  </div>
+      </div>
   
 - 🤔 Buscando:
    <div>
-   <img height="30" width="40" href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original-wordmark.svg"/>
-        
+      <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+    Trabalho  
    </div>
    
 - 📫 Contate-me em:
-  <div></div>
+  <div>
      <img height="30" width="40" src="#"/>
      <img height="30" width="40" src="#"/>
      <img height="30" width="40" src="#"/>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+    
+  </div>
+       
   ##
  
 <div> 
