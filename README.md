@@ -1,7 +1,8 @@
-<div>
-  
+<div style=displey: center>
   <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" target="_blank"></a>
 </div>
+
+##
 
 <div style="display: inline_block">
   <a href="https://github.com/LOSimoes?tab=repositories">
@@ -15,6 +16,8 @@
 - 🤔 Buscando:
 - 💬 Sinta-se à vontade para me perguntar sobre:
 - 📫 Contate-me em:
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
