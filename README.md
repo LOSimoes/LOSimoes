@@ -37,7 +37,7 @@
   
 - 🤔 Buscando:
    <div>
-   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original-wordmark.svg"/>
+   <img height="30" width="40" href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original-wordmark.svg"/>
         
    </div>
    
