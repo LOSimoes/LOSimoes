@@ -9,5 +9,5 @@
 
 <div>
   <a href="https://github.com/LOSimoes?tab=repositories">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasOSimoes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOSimoes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift"/>
 </div>
