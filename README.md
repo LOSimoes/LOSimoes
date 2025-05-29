@@ -3,6 +3,8 @@
    <img height="180em" margin="top" src="https://github-readme-stats.vercel.app/api?username=LOSimoes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift"/>
  </div>
 
+## Oi, sou Lucas O. Simões!
+
 - 🌱 Aprendendo ativamente sobre:
 - 👯 Aberto a colaboração em:
 - 🤔 Buscando:
