@@ -1,12 +1,12 @@
 # 👋 Oi, sou Lucas O. Simões!
 
-💻 **Desenvolvedor e estudante focado em tecnologia DevOps**  
+💻 **Desenvolvedor e eterno estudante focado em tecnologia DevOps**  
 🚀 Apaixonado por automação, infraestrutura e boas práticas de CI/CD  
 
 ---
 
 ## 🚀 Sobre mim
-Sou um entusiasta da tecnologia, sempre buscando aprender novas ferramentas e metodologias. Meu objetivo é crescer na área de DevOps e contribuir para projetos inovadores!
+Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferramentas, testar metodologias e encontrar formas de deixar processos mais eficientes. Meu foco atual é crescer na área de DevOps, explorar novas possibilidades e contribuir para projetos inovadores.
 
 ---
 
@@ -16,6 +16,13 @@ Sou um entusiasta da tecnologia, sempre buscando aprender novas ferramentas e me
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
+
+#
+
+🔧 Ferramentas de DevOps:
+<div><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX"/><img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></div>
+
+
 
 ---
 
