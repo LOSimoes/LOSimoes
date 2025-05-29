@@ -85,4 +85,13 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
   <a href="https://stackoverflow.com/users/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/LOSimoes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/LOSimoes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/LOSimoes/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
