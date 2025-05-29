@@ -1,5 +1,5 @@
 <div style="display: inline_block; text-align: auto;"><br>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" target="_blank"></a>
+  <a a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" target="_blank"></a>
 </div>
 
 ##
@@ -12,10 +12,23 @@
 ## Oi, sou Lucas O. Simões!
 
 - 🌱 Aprendendo ativamente sobre:
+   <div>
+     
+   </div> 
 - 👯 Aberto a colaboração em:
+   <div>
+     
+   </div>   
 - 🤔 Buscando:
+   <div>
+     
+   </div>
 - 💬 Sinta-se à vontade para me perguntar sobre:
+  <div>
+    
+  </div>
 - 📫 Contate-me em:
+  <div></div>
 
 ##
 
