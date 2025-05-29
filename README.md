@@ -14,8 +14,8 @@
 - 🌱 Melhorando skill ativamente sobre:
    <div>
      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg">
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
 
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=red" target="_blank"></a> 
        <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=red" target="_blank"></a>
@@ -23,16 +23,16 @@
    </div> 
 - 👯 Em pré estudo para expecializar-me:
    <div>
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
    </div>  
    
 - 🤔 Buscando:
    <div>
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
     
    </div>
 - 💬 Sinta-se à vontade para me perguntar sobre:
@@ -44,9 +44,9 @@
   </div>
 - 📫 Contate-me em:
   <div></div>
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
-     <img height="30" width="40" src="">
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
+     <img height="30" width="40" src=""/>
 
 ##
 
