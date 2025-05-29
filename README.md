@@ -39,7 +39,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 ---
 
 ## 💬 Sinta-se à vontade para me perguntar sobre:
-💡 DevOps, Automação, CI/CD, GitHub Actions, Banco de Dados MySQL  
+💡 DevOps, Automação, CI/CD 
 
 ---
 
