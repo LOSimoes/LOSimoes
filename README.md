@@ -55,7 +55,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
     <img height="30" width="30" src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" alt="Outlook"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasosimoes/" target="_blank">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 
@@ -77,7 +77,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 ## 🌐 Meu LinkedIn e Redes Sociais
 
 <div>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucasosimoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasdeoliveirasimoes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/v28TSVBb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lucasosimoes95/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
