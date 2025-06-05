@@ -12,7 +12,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 
 ## 🌱 Melhorando e estudando ativamente sobre:
 <div>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://fullcycletraining.com/wp-content/themes/fullcycle/assets/images/site/logo-fullcycle.png)"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
