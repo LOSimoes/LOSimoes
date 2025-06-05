@@ -10,12 +10,13 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 
 ---
 
-## 🌱 Melhorando e estudando ativamente sobre:
+## 🌱 Estudando ativamente sobre:
 <div>
-  <img height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://fullcycletraining.com/wp-content/themes/fullcycle/assets/images/site/logo-fullcycle.png)"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <a href="https://curso.devopspro.com.br/devops-pro/" target="_blank">
+    <img height="40" width="90" src="https://i.ibb.co/DDj4gdyV/13b020edc3d04a49977ee50f8fb2a9b6-3.png"/>
+  </a>
 </div>
+
 
 ---
 
