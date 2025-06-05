@@ -13,10 +13,9 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 ## 🌱 Estudando ativamente sobre:
 <div>
   <a href="https://curso.devopspro.com.br/devops-pro/" target="_blank">
-    <img height="40" width="90" src="https://i.ibb.co/DDj4gdyV/13b020edc3d04a49977ee50f8fb2a9b6-3.png"/>
+    <img height="30" width="80" src="https://i.ibb.co/DDj4gdyV/13b020edc3d04a49977ee50f8fb2a9b6-3.png"/>
   </a>
 </div>
-
 
 ---
 
