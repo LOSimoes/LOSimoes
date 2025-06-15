@@ -1,6 +1,6 @@
 # 👋 Oi, sou Lucas O. Simões!
 
-💻 **Desenvolvedor e eterno estudante focado em tecnologia DevOps**  
+💻 **Desenvolvedor e eterno estudante focado em cultura DevOps**  
 🚀 Apaixonado por automação, infraestrutura e boas práticas de CI/CD  
 
 ---
