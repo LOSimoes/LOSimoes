@@ -19,7 +19,7 @@ Sou um grande apreciador da tecnologia, sempre buscando aprender novas ferrament
 
 ---
 
-## 👯 Em pré-estudo para especializar-me:
+## 📚 Em estudo para especializar-me:
 <div>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-plain-wordmark.svg"/>
